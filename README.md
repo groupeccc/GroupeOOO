@@ -2,7 +2,7 @@
 GroupeOOO is a font designed by groupe CCC (Alice Gavin & Valentin Bigel) commissioned for G.bodywork workshop led by artist Ève Chabanon with students from Lycée Jean Pierre Timbaud in Aubervilliers in 2016. Check out the website http://balmoral.club/g.bodywork/
 
 ##Specimen
-![gbodywork1](https://github.com/groupeccc/GroupeOOO/blob/master/documentation/images/groupeOOO.svg)
+![gbodywork1](https://rawgit.com/groupeccc/GroupeOOO/blob/master/documentation/images/groupeOOO.svg)
 
 ## License
 
